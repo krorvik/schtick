@@ -16,4 +16,4 @@ It is possible to swap out the encoders for latching switches, so separate code 
 
 The whole box is built out of 4mm acrylic glass, painted up nice with color coded panels.
 
-()[https://raw.githubusercontent.com/krorvik/schtick/master/images/schtick.png]
+[](https://raw.githubusercontent.com/krorvik/schtick/master/images/schtick.png)
