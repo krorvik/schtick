@@ -15,3 +15,5 @@ Everything is controlled by a Teensy 3.2 - using one 6x6 matrix for toggles and 
 It is possible to swap out the encoders for latching switches, so separate code for this is provided.
 
 The whole box is built out of 4mm acrylic glass, painted up nice with color coded panels.
+
+()[https://raw.githubusercontent.com/krorvik/schtick/master/images/schtick.png]
